@@ -14,4 +14,4 @@ Licença
 
 MIT
 
-[arrayToMap]: <>
+[arrayToMap]: <https://github.com/lbertoncello/js-snippets/blob/master/arrayToMap.js>

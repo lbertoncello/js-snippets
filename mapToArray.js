@@ -1,4 +1,3 @@
-
 /**
  * Convert a Map to an array
  * @param  {Map} map The Map to be converted
